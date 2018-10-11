@@ -17,7 +17,7 @@ var proverbs = [
 "Too many cooks spoil the broth",
 "Truth is stranger than fiction",
 "Practice makes perfect",
-"Only two things are infinite, the universe and human stupidity"
+"Only two things are infinite the universe and human stupidity"
 ];
 
 
